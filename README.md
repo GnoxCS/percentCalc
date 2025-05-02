@@ -1,3 +1,7 @@
-# tafqit_app
+# حساب نسبة النجاح
 
-A new Flutter project.
+تطبيق Flutter لحساب نسبة النجاح بين الطلاب.
+
+## لقطة شاشة
+
+![Screenshot](screenshots/screenshot.png)
