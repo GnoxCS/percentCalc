@@ -1,0 +1,23 @@
+name: tafqit_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  arabic_numbers: ^1.0.0
+  flutter:
+    sdk: flutter
+  number_to_word_arabic: ^0.0.8
+  number_to_words: ^1.0.0
+  tafqit: ^0.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
