@@ -4,4 +4,4 @@
 
 ## لقطة شاشة
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.jpeg)
